@@ -1,12 +1,10 @@
 # InTheBox
 
-WeConnect provides a platform that brings businesses and individuals together. This platform 
-creates awareness for businesses and gives the users the ability to write reviews about the 
-businesses they have interacted with.
+IntheboX in a mobile application to help people to locate services and services providers to be able to provide their services in an easy w
 
 ## Getting Started
 
-To check the site log in to [weConnect](https://mwalughabura.github.io/weConnect/)
+To check the site log in to [IntheboX](https://github.com/rutpasswd/InTheBoX)
 
 ### Prerequisites
 
