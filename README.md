@@ -19,14 +19,15 @@ On your Android Phone Go to [Play Store](https://play.google.com/store) and down
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/mwalughabura/weConnect) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/rutpasswd/InTheBoX) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
  *Initial work* 
+
  - [Mick Ganza](https://github.com/rutpasswd/) 
- *Initial work* 
- -[MwalughaBura](https://github.com/mwalughabura)
+
+
 
 ## Acknowledgments
 
