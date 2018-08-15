@@ -1,19 +1,20 @@
 # InTheBox
 
-IntheboX in a mobile application to help people to locate services and services providers to be able to provide their services in an easy w
+IntheboX in a Mobile Application which contain most of the services provided in kigali (Gasabo, Nyarugenge, Kicukiro) and it helps services providers and services seekers. Service providers are able to inside their services in the box which is thia app to enable service seekers to able to find their services in this app.
 
 ## Getting Started
 
-To check the site log in to [IntheboX](https://github.com/rutpasswd/InTheBoX)
+Go to Play Store on your Android Phone and download IntheBoX app or check the site log in to [IntheboX](https://github.com/rutpasswd/InTheBoX)
+
 
 ### Prerequisites
 
-*Browser 
-*Internet
+*Android Phone
+*Internet connectivity
 
 ## Built With
 
-* [Bootstrap](http://getbootstrap.com/) - The styling framework used
+* [Ionic Cordova](https://ionicframework.com/) - The framework used
 * [HTML](https://www.w3schools.com/html/) - HTML
 
 ## Contributing
@@ -22,13 +23,15 @@ Please read [CONTRIBUTING.md](https://github.com/mwalughabura/weConnect) for det
 
 ## Authors
 
-* **Mwalugha Bura** - *Initial work* - [MwalughaBura](https://github.com/mwalughabura)
+* **Mick Ganza and Mwalugha Bura and** - *Initial work* 
+ - [Mick Ganza](https://github.com/rutpasswd/)
+ -[MwalughaBura](https://github.com/mwalughabura)
 
 ## Acknowledgments
 
-**Andela Cohort 25 BootCamp Team Wakanda**
+**Tunapanda Institute**
 
-* Georgreen Ng'unga
-* Nelson Mandela Omariba
-* Ngige Mwaura
-* Alex Mochu
+* Mwalugha Bura
+* Brian Mwevi
+* Yvette Oruko
+
