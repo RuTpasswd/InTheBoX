@@ -5,6 +5,8 @@ IntheboX is a Mobile Application which contain most of the services provided in 
 ## Getting Started
 
 On your Android Phone Go to [Play Store](https://play.google.com/store) and download IntheBoX app or check the site log in to [IntheboX](https://github.com/rutpasswd/InTheBoX).
+
+*1.
 **If you are looking for a service**
 1.After downloading and Installation,Click on the Icon.
 2.The App will open and then Click Locate Service Button.
@@ -12,7 +14,7 @@ On your Android Phone Go to [Play Store](https://play.google.com/store) and down
          1. Search Directy on The Top
          2. Choose the Sector and then you will have more option to schoose.
 
-**If you are a service provider**
+*2.**If you are a service provider**
 1.After downloading and installation,Click on the Icon.
 2.The App will open and Click on Provide Service.
 3.Register and Then LogIn
@@ -44,7 +46,9 @@ Please read [CONTRIBUTING.md](https://github.com/rutpasswd/InTheBoX) for details
  
  ## Contact
  
- - [Mick Ganza](Email:ganzamick@gmail.com , Telephone:+250788293922)
+ *Mick Ganza 
+ *email@:ganzamick@gmail.com ,
+ *Call to:+250788293922
  
  ## License
  
