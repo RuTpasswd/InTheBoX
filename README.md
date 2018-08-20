@@ -6,27 +6,27 @@ IntheboX is a Mobile Application which contain most of the services provided in 
 
 On your Android Phone Go to [Play Store](https://play.google.com/store) and download IntheBoX app or check the site log in to [IntheboX](https://github.com/rutpasswd/InTheBoX).
 
-1.
-**If you are looking for a service**
-*1.After downloading and Installation,Click on the Icon.*
-*2.The App will open and then Click Locate Service Button.*
-*3.You will have 2 Option:* 
-         *1. Search Directy on The Top*
+
+**If you are looking for a service**<br/>
+*1.After downloading and Installation,Click on the Icon.*<br/>
+*2.The App will open and then Click Locate Service Button.*<br/>
+*3.You will have 2 Option:* <br/>
+         *1. Search Directy on The Top*<br/>
          *2. Choose the Sector and then you will have more option to choose.*
 
-2.**If you are a service provider**
-*1.After downloading and installation,Click on the Icon.
-*2.The App will open and Click on Provide Service.
-*3.Register and Then LogIn
-*4.Record the Service your Providing.
-*5.Upload it.
+**If you are a service provider** <br/>
+1.After downloading and installation,Click on the Icon.<br/>
+2.The App will open and Click on Provide Service.<br/>
+3.Register and Then LogIn.<br/>
+4.Record the Service your Providing.<br/>
+5.Upload it.
 
 
 
 ### Prerequisites
 
-*Android Phone
-*Internet connectivity
+Android Phone<br/>
+Internet connectivity
 
 ## Built With
 
@@ -42,13 +42,13 @@ Please read [CONTRIBUTING.md](https://github.com/rutpasswd/InTheBoX) for details
  **Initial work** 
 
  - [Mick Ganza](https://github.com/rutpasswd/) 
- - See also the list of [contributors] (https://github.com/rutpasswd/InTheBoX) who participated in this project.
+ - See also the list of other [Contributors] (https://github.com/rutpasswd/) who participated in this project.
  
  ## Contact
  
- Mick Ganza 
- *email:ganzamick@gmail.com*
- *Call to:+250788293922*
+ Mick Ganza <br/>
+ email:ganzamick@gmail.com<br/>
+ Call:+250788293922
  
  ## License
  
